@@ -1,0 +1,26 @@
+
+
+number
+line 
+replace
+words
+esc
+txt2
+txt3
+
+
+txt
+escp
+columm
+rows
+
+
+
+using command to copy new yy
+words
+using command to paste esc p
+columm
+
+
+
+set cmd is also working

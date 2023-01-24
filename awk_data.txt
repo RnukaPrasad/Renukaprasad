@@ -1,0 +1,18 @@
+empname  designation  dept   salary
+amith    maneger      acc    40000
+sour     sales        sales  30000
+ajju     teck         teck   50000
+choo     IT           teck   50000
+kush     engg         teck   60000
+
+pram     maneger      acc    45000
+suvi     sales        sales  35000
+gowda    teck         teck   44000
+
+kiran    engg         teck   60000
+samu     IT           acc    20000
+anu      teck         teck   50000
+
+shashi   maneger      acc    90000
+basu     dy.maneger   teck   80000
+0
