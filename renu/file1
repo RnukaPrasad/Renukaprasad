@@ -8,3 +8,10 @@ git commit
 
 git push
 
+
+git reset --mixed
+
+git reset --soft
+
+
+remove line
