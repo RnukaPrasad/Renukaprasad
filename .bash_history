@@ -141,3 +141,135 @@ git checkout master
 git branch
 git branch -d b2
 git branch -D b2
+cd renu
+ls
+vi file1
+git diff
+git add
+git status
+git add file1
+git status
+git reset --soft
+git status
+git diff
+git status
+more file1
+vi file1
+git diff
+git status
+git add file1
+git status
+git reset --hard
+git status
+cat file1
+git add -A
+git commit -m " commit file"
+git push origin master
+git status
+vi file1
+git add file1
+git commit -m "example file"
+more file1
+vi file1
+git diff
+git diff file1
+git status
+git add file1
+git status
+git reset --mixed
+git status
+vi file1
+git diff
+git diff file1
+git add file1
+git status
+git reset --soft
+git status
+cat file1
+git log
+git reset --soft c3b23f8038a0a099c06ad2e4993985acddd87617
+git status
+git log
+git diff file1
+cat file1
+vi file1
+git diff file1
+git status
+git add file1
+git status
+git reset --soft
+git log
+clear
+ls
+git log
+git branch
+git checkout b1
+git branch
+git branch -d b1
+git chekout -b b2
+git checkout -b b2
+vi imp
+git add imp
+git commit -m "cherry-pick"
+git pull origin b2
+git push origin b2
+git branch
+git pull origin b2
+git log
+git checkout master
+git branch
+git cherry-pick 735aa3e8d51122442f6dface6bb2352a18e34e80
+git log
+cat file1
+vi file1
+git add file1
+git commit -m "revert"
+git pull
+git pull origin master 
+ls -lrt
+chmod 777 file1
+git pull origin master 
+git pull origin master
+git config --global.useremail "renukaprasad.b6@gmail.com"
+git config --global user.email "renukaprasad.b6@gmail.com"
+git config --global user.name "rp"
+git status
+git add file1
+git commit -m "revert file"
+git pull origin master
+clear
+ls
+git branch
+git pull origin master
+cd
+ls -lart
+cd .ssh
+ls
+clear
+cd
+ssh-keygen -t rsa -b 4096 -C "renukaprasad.b6@gmail.com"
+ls -lart
+cd .ssh
+ls
+more id_rsa.pub
+cd
+cd renu
+ls
+git pull origin master
+cat file1
+git status
+git add file1
+git commit -m "revert file"
+git pull origin master
+git push origin master
+git log
+git revert c385e21f2802a752835d75e23a0b105f29dae4e6
+git revert c385e21f2802a752835d75e23a0b105f29dae4e6
+git revert c385e21f2802a752835d75e23a0b105f29dae4e6
+git add file1
+git commit -m "revert file"
+git pull origin master
+git push origin master
+git log
+git revert b6f8cde6f57c1f51ed9ba9504cfe7460ed0bbed4
+git log --help
